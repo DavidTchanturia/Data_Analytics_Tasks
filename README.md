@@ -21,3 +21,15 @@ you can find the .zip file in the directory as well, in the jupiter notebook you
   1. developers average salary by their age
   2. georgian developers and their average salary based on their experience
   3. heatmap of every programming language ever used by the developers in total
+
+### Quiz02
+In the second quiz, I am working with **LoanStatus.csv** file, 
+the following .ipynb file does the following things:
+- running analytical function on ApplicationIncome and LoanAmmount columns
+- calculating probabilities of loan approval in different scenarios
+- creating a graph for Applicant income and Loan amount
+- finds percentage of users whose income is less then 2000
+- creates bar plot of Loan amounts based on education level of the client
+- creates bar plot of income based on their living and working area
+- uses t-test to see if avg applicant income is less then a given threshold
+- uses t-test to compare two groups with their income amount
