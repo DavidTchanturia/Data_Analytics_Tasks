@@ -33,3 +33,13 @@ the following .ipynb file does the following things:
 - creates bar plot of income based on their living and working area
 - uses t-test to see if avg applicant income is less then a given threshold
 - uses t-test to compare two groups with their income amount
+
+### Quiz 05 & 06
+მოცემულ ქვიზში ვმუშაობთ Housing_Data.csv და survey_lung_cancer.csv მონაცემებთან, რომელიც
+შეგიძლიათ ასევე იხილოთ kaggle-ზე. Housing_data მონაცემები გამოიყენება წრფივი რეგრესიის
+მოდელების დასატრენინგებლად, რადგან ვცდილობთ გამოვიცნოთ სახლების ფასი.
+
+რაც შეეხება
+ფილტვის კიბოს მონაცემებს, ისინი გამოიყენება კლასიფიკაციის მოდელების დასატრენინგებლად, ვინაიდან,
+საბოლოო შედეგად ვიღებდ ან 0 ან 1, რაც შესაბამისად ნიშნავს ექნება თუ არა კონკრეტულ ადამიანს კიბო.
+დეტალური აღწერა და ნაბიჭები, კოდში კომენტარების სახითაა დართული.
